@@ -25,21 +25,21 @@ A responsive survey form that collects user input through various types of form 
 A simple tribute page dedicated to a person of historical or cultural significance. This project focuses on content structure, basic HTML and CSS styling, and semantic elements.
 
 - **Live Demo:** [Tribute Page](https://prathamr-codes.github.io/Web-Design-Projects/Tribute-Page/index.html)
-- **Code:** [Tribute Page Code](https://github.com/Prathamr-codes/Web-Design-Projects/tree/main/Tribute-Page)
+- **Code:** [Tribute Page Code](/Tribute-Page)
 
 ### Technical Documentation Page
 
 A multi-section technical documentation page with a sidebar navigation. This project highlights the use of navigation links, sections, and responsive layout.
 
 - **Live Demo:** [Technical Documentation Page](https://prathamr-codes.github.io/Web-Design-Projects/Documentation-Page/index.html)
-- **Code:** [Technical Documentation Code](https://github.com/Prathamr-codes/Web-Design-Projects/tree/main/Documentation-Page)
+- **Code:** [Technical Documentation Code](/Documentation-Page)
 
 ### Product Landing Page
 
 A product landing page that includes a header with navigation, product features, and a call-to-action section. This project emphasizes layout design, flexbox/grid, and media queries.
 
 - **Live Demo:** [Product Landing Page](https://prathamr-codes.github.io/Web-Design-Projects/Landing-Page/index.html)
-- **Code:** [Product Landing Page Code](https://github.com/Prathamr-codes/Web-Design-Projects/tree/main/Landing-Page)
+- **Code:** [Product Landing Page Code](/Landing-Page)
 
 ## Technologies Used
 
@@ -49,4 +49,4 @@ A product landing page that includes a header with navigation, product features,
 
 ---
 
-Happy coding! If you have any questions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, don't hesitate to reach out. Happy coding! 🚀
