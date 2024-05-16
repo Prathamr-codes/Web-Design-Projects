@@ -18,7 +18,7 @@ This repository contains a collection of web design projects completed as part o
 A responsive survey form that collects user input through various types of form fields. This project demonstrates the use of form elements, layout techniques, and responsive design.
 
 - **Live Demo:** [Survey Form](https://prathamr-codes.github.io/Web-Design-Projects/Survey-Form/index.html)
-- **Code:** [Survey Form Code](https://github.com/Prathamr-codes/Web-Design-Projects/tree/main/Survey-Form)
+- **Code:** [Survey Form Code](/Survey-Form)
 
 ### Tribute Page
 
